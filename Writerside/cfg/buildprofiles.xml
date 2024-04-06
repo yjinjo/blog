@@ -1,0 +1,9 @@
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <variables>
+        <algolia-id>AR2H633GQ3</algolia-id>
+        <algolia-index>dev_blog</algolia-index>
+        <algolia-api-key>cfef1cc1016ac992d621dcd5fdb29e26</algolia-api-key>
+        <web-root>https://yjinjo.github.io</web-root>
+    </variables>
+</buildprofiles>
